@@ -1,5 +1,5 @@
 # Simple-Servers
-simple servers project done for a home test
+simple servers maven project done for a home test
 
 todo list:
 1. read and synch data from an xml / json file
